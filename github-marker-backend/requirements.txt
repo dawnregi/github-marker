@@ -1,0 +1,13 @@
+bcrypt
+pydantic-settings
+fastapi
+uvicorn[standard]
+SQLAlchemy
+asyncpg
+alembic
+python-dotenv
+python-jose[cryptography]
+httpx
+pydantic
+python-multipart
+greenlet
