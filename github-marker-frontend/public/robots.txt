@@ -1,5 +1,6 @@
 User-agent: *
-Disallow: /dashboard
+Disallow: /app
+Disallow: /auth
 
 
 Sitemap: https://gitmarker.com/sitemap.xml
