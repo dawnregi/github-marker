@@ -2,5 +2,4 @@ User-agent: *
 Disallow: /app
 Disallow: /auth
 
-
 Sitemap: https://gitmarker.com/sitemap.xml
